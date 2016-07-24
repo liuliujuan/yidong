@@ -1,0 +1,16 @@
+body,h1,h2,h3,h4,h5,h6,ul,li,p,input,dl,dt,dd{
+margin:0;
+padding:0;
+list-style:none;/*清除列表样式*/
+font-family:Arial "微软雅黑";
+}
+a{
+ text-decoration:none;/*清除链接下划线*/
+ color:#666;/*字体颜色*/
+}
+a:hover{
+color:#4d7cee;/*a链接中鼠标放上后字体颜色*/
+}
+img{
+border:none;/*清除图片在IE浏览器中的兼容问题，去除边框*/
+}
